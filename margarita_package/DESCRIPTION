@@ -1,6 +1,6 @@
 Package: margarita_package
 Type: Package
 Title: A Package for Margarita Ingredients Calculation
-Version: 0.1.1
+Version: 0.1.0
 Description: This package provides a function to calculate the ingredients needed for making a margarita based on the volume specified.
 RoxygenNote: 7.3.1
